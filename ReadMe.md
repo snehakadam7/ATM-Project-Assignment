@@ -1,6 +1,6 @@
 Assignment has been completed and uploaded in the following directory structure.
 
-#Assumptions: 
+**Assumptions:** 
 1. csv file format will remain same with first line being header.
 2. amount has a range of 5.0 × 10^(−345) to 1.7 × 10^(308)
 
@@ -26,7 +26,7 @@ Withdraw.java: Represents withdraw transactions of an account.
 
 History.java: Represents transaction history of an account.
 
-#Documentation:
+**Documentation:**
 This directory contains ATM_unit_testcases.xls which were executed to perform unit testing.
 
 ATM_unit_testcases.xls: represents unit test cases for the assignment.
